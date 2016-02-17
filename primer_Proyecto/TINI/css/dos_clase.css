@@ -1,0 +1,72 @@
+header {
+	 margin-bottom: 0px;
+
+}
+.color_fondo{
+
+  padding: 0;
+  margin: 0;
+  border-bottom: 1px solid #FFBF00;
+  background: #FFBF00;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+}
+
+ .btn-sumate{
+	height: 60px;
+	background:#FE642E;
+	text-align: center;
+	padding-top: 15px;
+	margin-top: 30px;
+
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	margin: 2%;
+}
+.color_fondo .posicion_centro{
+	margin:100px;
+	text-align: center;
+
+}
+.color_fondo h1{
+	color:white;
+}
+.color_fondo p{
+	color: white;
+}
+/**/
+/*fila dos*/
+.color_fondo_dos{
+	text-align: center;
+	background-color: #BDBDBD;
+}
+.color_fondo_dos h2{
+	color: #A4A4A4;
+}
+
+.tamano_img{
+	height: 300px;
+	width: 300px;
+}
+.color_fondo_dos p{
+	text-align: left;
+
+}
+.box{
+	height: 500px;
+	width: 100%;
+	background-color: white;
+	padding: 20px;
+	margin: 30px;
+}
+footer{
+	text-align: center;
+	background: #A4A4A4;
+	padding: 15px;
+
+}
