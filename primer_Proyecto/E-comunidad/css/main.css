@@ -1,0 +1,183 @@
+* {
+	font-family: "Helvetica",Arial;
+}
+.tamano_img{
+	height: 100px;
+	width: 100%;
+}
+.menu_nav ul{
+	list-style: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+	text-decoration: none;
+}
+.menu_nav li{
+	text-decoration: none;
+	display: inline-block;
+	border-left: 2px solid black;
+}
+.menu_nav a{
+	text-decoration: none;
+	padding: 10px;
+	color: black;
+}
+
+/*/ FILA 2*..................PLANTA........*/
+.planta{
+	background: url("../img/semilla.jpg");
+	height: 400px;
+	background-position: center; /*/ Posicionar..la imagen de .PLANTA........*/
+	width: 100%;
+
+}
+.propaganda_fondo{
+	background-color: #D8D8D8;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.propaganda_fondo p{
+	font-size: 15px;
+	padding: 70px;
+}
+
+/*FILA_TRES...............................MISON Y VISION */
+.centrado_texto{
+	text-align: center;
+}
+.separacion_margin{
+	margin: 50px 0px 50px;
+
+}
+/* fila 3 .,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,..............,,METODOLOGIA-..........................................*/
+.fila_meto{
+	margin-bottom: 20px;
+}
+.tam_img_narrador img{
+	height: 300px;
+	width: 100%;
+}
+.metodologia{
+	background: url("../img/metodologia/fondo.png");
+	width: 100%;
+	height: 300px;
+	
+}
+.decora_metodologia{ /*Cracteristicas_generales_del texto_de_metodlogia*/
+	text-align: center;
+	padding: 25px 10px 15px 10px;
+	color: white;
+}
+.decora_metodologia h3{
+	padding: 10px;
+}
+/* fila 4 .,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,,....................................,SERVICIOS-..........................................*/
+.lugar_servicios{
+	text-align: center;
+	margin-top: 25px;
+}
+.lugar_servicios h2{
+	padding: 15px;
+
+}
+.box_servicios{
+	margin-top: 90px;
+	text-align: center;
+	padding-left: 15px;
+}
+.box_servicios p{
+	padding: 20px 10px 10px 10px;
+}
+/*..Proyectos*/
+.fondo_cuatro{
+	background-color: #173B0B;
+	margin-top: 70px;
+	height: 700px;
+	margin-bottom: 70px;
+
+}
+.fondo_cuatro img{
+	width: 100%;
+	height: 300px;
+	position: left;
+	border: 0px solid;
+
+
+}
+#img_margin{
+	margin-top: 40px;
+}
+.posicion_letras_proyecto{
+	color: white;
+	padding: 60px;
+	font-size: 14px;
+}
+/*equipo dos*/
+.equipo_dos{
+	text-align: center;
+}
+.img_equipo{
+	border-radius: 50%;
+	width: 310px;
+	height: 310px;
+	margin: 0px 20px 20px 0px;
+	padding: 4px;
+
+}
+.redes_img{
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+}
+/*redes sociales---------------*/
+.fondo_cinco{
+	padding: 20px 0 35px 0;
+	margin: 0;
+	background: #585858;
+}
+.fondo_cinco a{
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	padding: 20px;
+
+}
+/*cajas_redes*/
+
+.caja_blanca{
+	height: 240px;
+	width: 200;
+	border: 2px solid #848484;
+}
+.tamano_redes{
+	height: 50px;
+	width: 50px;
+	margin-left: 70px;
+	margin-top: 80px;
+
+}
+
+
+/*footer*/
+footer {
+	padding: 20px 0 35px 0;
+	margin: 0;
+	background: #E6E6E6;
+	color: #000000;	
+	font-size: 15px;
+	line-height: 15px;	
+	font-size: 12px;
+
+}
+
+#color_laboratoria{
+	color: #FFBF00;
+}
+footer .alineacion p{
+	text-align: right;
+
+}
